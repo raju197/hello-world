@@ -1,0 +1,60 @@
+Tax Invoice
+
+NIYOGI OFFSET PVT LTD. Invoice No. e-Way Bill No. Dated
+D-78, Okhla Industrial Area, 07357/19-20 7811 0835 8041 12-Dec-2019
+Phase - I, New Delhi-110020 Delivery Note Mode/Terms of Payment
+GSTIN/UIN: 07AAACN0474C1ZX 45 Days
+State Name :  Delhi, Code : 07 Supplier’s Ref. Other Reference(s)
+E-Mail : niyogioffset@gmail.com 07357/19-20
+Buyer’s Order No. Dated
+Consignee 131900284 5-Dec-2019
+Godfrey Phillips India Limited Despatch Document No. Delivery Note Date
+C/o International Tobacco Co. Ltd.
+Delhi Meerut Road, Guldhar, Despatched through Destination
+Ghaziabad - 201003 Company Vehicle Ghaziabad
+GSTIN/UIN : 09AABCG4768K1Z5 Bill of Lading/LR-RR No. Motor Vehicle No.
+State Name  : Uttar Pradesh, Code : 09 DL03CCN3184
+
+Terms of Delivery
+Buyer (if other than consignee)
+Godfrey Phillips India Limited
+C/o International Tobacco Co. Ltd.
+Delhi Meerut Road, Guldhar,
+Ghaziabad - 201003
+GSTIN/UIN : 09AABCG4768K1Z5
+State Name  : Uttar Pradesh, Code : 09
+
+Sl Description of Goods HSN/SAC Quantity Rate per Amount
+No.
+
+1 Insert (GPI) 48132000 12,64,800 NOS 0.14 NOS 1,70,748.00
+Insert for R&W Striker
+Naya Stylish Pack
+Size - 36 mm x 64 mm
+Paper : 170 Gsm Magno Paper
+Item Code : SHE0005561
+2 Packing Charges 850.00
+Box - 34 (Weight - 578 Kg.)
+
+1,71,598.00
+Output IGST 30,887.64
+
+Total 12,64,800 NOS ī 2,02,485.64
+Amount Chargeable (in words) E. & O.E
+Indian Rupees Two Lakh Two Thousand Four Hundred Eighty Five and Sixty Four Paisa Only
+
+HSN/SAC Taxable Integrated Tax Total
+Value Rate Amount Tax Amount
+48132000 1,70,748.00 18% 30,734.64 30,734.64
+850.00 18% 153.00 153.00
+Total 1,71,598.00 30,887.64 30,887.64
+
+Tax Amount (in words)  : Indian Rupees Thirty Thousand Eight Hundred Eighty Seven and Sixty Four Paisa Only
+
+Company’s PAN  : AAACN 0474C
+Declaration for NIYOGI OFFSET PVT LTD.
+We declare that this invoice shows the actual price of the 
+goods described and that all particulars are true and correct.
+Authorised Signatory
+
+This is a Computer Generated Invoice
