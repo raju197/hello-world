@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "processName": "DQF NG Application",
+    "processId": "3ba167f1-t558-8a95-mx19-9y97d303dt2f",
+    "stageId": "9154f5g3-8g19-ff3d-7e53-g068h9n81ct9",
+    "requestType": "query",
+    "task": "DriverFileSearch",
+    "taskDesc": "Driver File Search",
+    "taskGroupId": "803175e2-9b15-4f0c-9381-e084b21c0c08",
+    "requestDate": "1/4/2020 8:00:12 PM",
+    "requestId": "9aa167d1-2e5a-4a25-ac1e-fe97d706df2f",
+    "version": "2.0.0",
+    "attempt": 1,
+    "multiTask": "no",
+    "requestAuthToken": "jwt.token"
+  },
+  "data": [
+    {
+      "taskName": "DriverFileSearch",
+      "taskId": "803175e2-9b15-4f0c-9381-e084b21c0c11",
+      "taskSerialNo": 1,
+      "taskSpecs": {
+        "client": "FedEx Ground Package Systems - CSP",
+        "driverFileSearchInput": [
+
+          {
+            "searchTab": "CMS | Driver",
+            "fields": [
+              {
+                "label": "First Name",
+                "value": "GENIEE"
+              },
+              {
+                "label": "Last Name",
+                "value": "K"
+              },
+			  {
+                "label": "Date Of Birth",
+                "value": "1-6-1985"
+              }
+            ]
+          }
+            
+          
+        ],
+        "driverFileSearchOutput": [
+          {
+            "dataCapture": {
+              "captureSource": "App",
+              "captureSection": "Document Information",
+              "captureSubSection": "",
+              "documentName": "FXG Application",
+              "params": [
+                {
+                  "label": "",
+                  "value": ""
+                }
+              ],
+              "captureFields": [
+                {
+                  "label": "Issue/Exam Date",
+                  "key": "issueDate"
+                },
+				
+				{
+                  "label": "Is drivers license info complete?",
+                  "key": "dlInformationAvailable"	
+                }
+				
+              ]
+            }
+          },
+          {
+            "dataCapture": {
+              "captureSource": "App",
+              "captureSection": "Document Information",
+              "captureSubSection": "",
+              "documentName": "FXG DHI",
+              "params": [
+                {
+                  "label": "",
+                  "value": ""
+                }
+              ],
+              "captureFields": [
+                {
+                  "label": "Less than 1 yr exp: training cert on file?",
+                  "key": "lessThanYearExp"
+                }
+              ]
+            }
+          },
+          {
+            "dataCapture": {
+              "captureSource": "App",
+              "captureSection": "Driver Information",
+              "captureSubSection": "Edit Driver",
+              "documentName": "",
+              "params": [
+                {
+                  "label": "",
+                  "value": ""
+                }
+              ],
+              "captureFields": [
+                {
+                  "label": "First Name",
+                  "key": "firstName"
+                },
+                {
+                  "label": "Last Name",
+                  "key": "lastName"
+                },
+                {
+                  "label": "Driver Id",
+                  "key": "driverId"
+                }
+              ]
+            }
+          },
+          {
+            "dataCapture": {
+              "captureSource": "URL",
+              "captureSection": "https://www.fmcsa.dot.gov/national-registry-certified-medical-examiners-search",
+              "captureSubSection": "",
+              "documentName": "",
+              "params": [
+                {
+                  "label": "National Registry Number",
+                  "value": "6737223012"
+                }
+              ],
+              "captureFields": [
+                {
+                  "label": "Certification Date",
+                  "key": "certificateDate"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

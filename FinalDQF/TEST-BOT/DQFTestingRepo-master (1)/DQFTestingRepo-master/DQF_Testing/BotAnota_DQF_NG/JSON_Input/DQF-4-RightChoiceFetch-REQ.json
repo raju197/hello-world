@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "processName": "DQF NG Application",
+    "processId": "3ba167f1-t558-8a95-mx19-9y97d303dt2f",
+    "stageId": "9154f5g3-8g19-ff3d-7e53-g068h9n81ct9",
+    "requestType": "query",
+    "task": "RightChoiceInfoFetch",
+    "taskDesc": "Fetch info from RightChoice App",
+    "taskGroupId": "803175e2-9b15-4f0c-9381-e084b21c0c08",
+    "requestDate": "1/4/2020 8:00:12 PM",
+    "requestId": "9aa167d1-2e5a-4a25-ac1e-fe97d706df2f",
+    "version": "2.0.0",
+    "attempt": 1,
+    "multiTask": "no",
+    "requestAuthToken": "jwt.token"
+  },
+  "data": [
+    {
+      "taskName": "RightChoiceInfoFetch",
+      "taskId": "803175e2-9b15-4f0c-9381-e084b21c0c11",
+      "taskSerialNo": 1,
+      "taskSpecs": {
+        "rightChoiceInfo": {
+          "client": "COMPASS",
+          "SSN": "640161636",
+          "firstName": "JUAN",
+          "lastName": "CUEVAS",
+          "DLNumber": "B7744345",
+          "accountNumber": "197527",
+          "orderId": "",
+          "component": "",
+          "FXGID": "",
+          "address": "",
+          "tableType": "",
+          "interviewName": "",
+          "faxID": "100000000597",
+          "currentAddress": "",
+          "currentCity": "",
+          "currentState": "",
+          "currentZipCode": "",
+          "DOB": "",
+          "currentDL": "",
+          "currentDLState": "",
+          "hireDate": "",
+          "driverSequence": "1",
+          "documentPath": "",
+          "location": "",
+          "MVRPushed": "true",
+          "MVRSearchType":[
+           "Motor Vehicle Report"
+          ],
+          "MVRScore": [
+             "Yellow",
+             "Green"
+          ],
+          "MVRStatus": "Complete",
+          "DHIPush": "true",
+          "DHISearchType":[
+            "Former Employment",
+            "Present Employment"
+          ],
+          "DHIScore": [
+            "Yellow",
+            "Green"
+          ],
+          "DHIStatus": "Complete",
+          "accountValid": "True",
+          "accountId": [
+            "040652AIO",
+            "040655ACD",
+            "040653ACK",
+            "040655ABA",
+            "040653AIA"
+          ]
+        }
+      }
+    }
+  ]
+}

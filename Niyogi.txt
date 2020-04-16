@@ -1,84 +1,65 @@
-Original for Recipient
-Sify Technologies Limited
-4, Rajiv Gandhi Salai,Tidel Park,  Chennai,600113,Tamil Nadu,India.
-GSTIN: 33AAACS9032R1ZY
-TAX  INVOICE Page No. 1 of 2
-BILL TO SHIP TO
-2329/10
-Customer Code :
-GODFREY PHILLIPS INDIA LIMITED Place of Supply 
-49, Community center GODFREY PHILLIPS INDIA LIMITED
-Friends colony 
-CONNECTIVITY306, Sakar-1 Nr. G
-Invoice Number : ITN17133184 
-New Delhi
-andhigram Railway station, Opp. Nehru Bridge,
-Delhi 110025
-Ashram Road 
-Ahmedabad
-Document Sequence: 12018478993
-Gujarat 380009
-GSTIN: 24AABCG4768K1ZD
-Invoice Date : 09-FEB-18
-UIN: 
-Customer PO.No: Due Date : 11-MAR-18
-Customer PO.Date:
-Currency : INR
-Invoice Summary 
-Basic Amount Tax Amount Invoice Amount
-739.73 133.15 872.88
-Amount (in Words): Rupees Eight Hundred and Seventy Two and Eighty Eight Paise Only ***
-Tax Breakup 
-Description Amount For  Sify Technologies Limited
-IGST  18%      133.15
+Tax Invoice
+Invoice No. Dated
+NIYOGI OFFSET PVT LTD.
+08062/19-20 8-Jan-2020
+D-78, Okhla Industrial Area,
+Phase - I, New Delhi-110020 Delivery Note Mode/Terms of Payment
+GSTIN/UIN: 07AAACN0474C1ZX
+State Name :  Delhi, Code : 07
+Supplier’s Ref. Other Reference(s)
+E-Mail : niyogioffset@gmail.com
+08062/19-20
+Buyer’s Order No. Dated
+Consignee 111902028 8-Jan-2020
+Godfrey Phillips India Limited ( For Raichur)
+Despatch Document No. Delivery Note Date
+C&F Agent : M/s. Shiva Agencies
+Plot No.6A/1, 1st Floor,Autonagar,
+Despatched through Destination
+Ranga Reddy District,
+UES Express Courier Hyderabad
+District, Hyderabad - 500070
+GSTIN/UIN : 36AABCG4768K1Z8
+Terms of Delivery
+State Name : Telangana, Code : 36
+Buyer (if other than consignee)
+Godfrey Phillips India Limited
+C&F Agent : M/s. Shiva Agencies
+Plot No.6A/1, 1st Floor,Autonagar,
+Ranga Reddy District,
+District, Hyderabad - 500070
+GSTIN/UIN : 36AABCG4768K1Z8
+State Name : Telangana, Code : 36
+Sl Description of Goods HSN/SAC Quantity Rate per Amount
+No.
+Backing Sheet (SAC 9989) 4,000 NOS 35,800.00
+1 998911 8.95 NOS
+Red & White Mint Blast (Myx Flavour)
+(72 GSM Avery Pre-Gum
+Size  -17" x 22"
+Packing Charges 400.00
+2
+Box - 8 Box (Weight - 152 Kg)
+Freight & Cartage Charges 2,406.00
+3
+38,606.00
+Output IGST
+6,949.08
+4,000 NOS
+Total  45,555.08
+Amount Chargeable (in words) E. & O.E
+Indian Rupees Forty Five Thousand Five Hundred Fifty Five and Eight Paisa Only
+HSN/SAC Taxable Integrated Tax Total
+Value Rate Amount Tax Amount
+998911 35,800.00 18% 6,444.00 6,444.00
+2,806.00 18% 505.08 505.08
+Total 38,606.00 6,949.08 6,949.08
+Indian Rupees Six Thousand Nine Hundred Forty Nine and Eight Paisa Only
+Tax Amount (in words)  :
+AAACN 0474C
+Company’s PAN :
+Declaration for NIYOGI OFFSET PVT LTD.
+We declare that this invoice shows the actual price of the 
+goods described and that all particulars are true and correct.
 Authorised Signatory
- Total Tax 133.15
-PAN No.  : AAACS9032R
-RTGS  Information: You can make your payment through electronic transfer / RTGS as per given details, with a mail copy to sify.cms@sifycorp.com 
-with remittance details
-Sify Technologies Limited State Bank of India
-Beneficiary Name Bank Name
-2nd Floor, Tidel Park, No.4, Rajiv Gandhi 177/1, MVJ Towers, Poonamallee High 
-Company Address Bank Address
-Salai, Taramani, Chennai 600113, India. Road, Kilpauk, Chennai - 600010
-Cash Credit 36153248690
-Account Type Bank Account #
-Currency INR IFSC Code SBIN0007024
-Terms and Conditions
-1. Payments : Cheques / Demand Drafts / Wire Transfers to be issued in favour of "Sify Technologies Limited" quoting Invoice No. ITN17133184
-in your payment advice.
-2. Payment should be made as per the terms and conditions of the Purchase Order. Interest @ 24% will be charged on payment received after
-due date.
-3. For Period Charges, the calculation has been done as follows: (Annual Rate / 365) X (Number of days of service)
-4. Any dispute relating to the order shall be deemed to have arisen in Chennai and all litigation there shall be subject to Jurisdiction of Courts at
-Chennai, only.
-5. Invoices will be deemed to have been accepted if no query is raised within 7 Days of receipt of invoices. For any billing query email us: 
-billing_support@sifycorp.com
-For Service Disconnections email us: sify.creditcontrol@sifycorp.com
-[ This Invoice is electronically generated and is digitally signed ]
-REGD. OFFICE
-nd
-2 Floor, Tidel Park, No.4, Rajiv Gandhi Salai, Taramani, Chennai - 600113 India.
-T +91 44 22540770 / 22540777 F +91 44 22540771 CIN : U72200TN1995PLC050809 Website : sifytechnologies.comInvoice No: ITN17133184 Invoice Date: 09-FEB-18
-                                                                                                                    Page No. 2 of 2  
-  
-Invoice Line Details 
-S.No. Service/s HSN Code Location Basic Amount
-1
-PNMMC Service Charges
-111602067-29-MAR-17-
-ASHRAM 
-9983
-739.73
-RD-AHMEDABAD
-LINK ID :4529610417
-PERIOD :01-APR-18 To 15-MAY-18
-739.73
-Total
----End of Invoice---
-For Service Disconnections email us: sify.creditcontrol@sifycorp.com
-[ This Invoice is electronically generated and is digitally signed ]
-REGD. OFFICE
-nd
-2 Floor, Tidel Park, No.4, Rajiv Gandhi Salai, Taramani, Chennai - 600113 India.
-T +91 44 22540770 / 22540777 F +91 44 22540771 CIN : U72200TN1995PLC050809 Website : sifytechnologies.com
+This is a Computer Generated Invoice

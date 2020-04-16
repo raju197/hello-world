@@ -1,0 +1,84 @@
+Original for Recipient
+Sify Technologies Limited
+4, Rajiv Gandhi Salai,Tidel Park,  Chennai,600113,Tamil Nadu,India.
+GSTIN: 33AAACS9032R1ZY
+TAX  INVOICE Page No. 1 of 2
+BILL TO SHIP TO
+2329/10
+Customer Code :
+GODFREY PHILLIPS INDIA LIMITED Place of Supply 
+49, Community center GODFREY PHILLIPS INDIA LIMITED
+Friends colony 
+CONNECTIVITY306, Sakar-1 Nr. G
+Invoice Number : ITN17133184 
+New Delhi
+andhigram Railway station, Opp. Nehru Bridge,
+Delhi 110025
+Ashram Road 
+Ahmedabad
+Document Sequence: 12018478993
+Gujarat 380009
+GSTIN: 24AABCG4768K1ZD
+Invoice Date : 09-FEB-18
+UIN: 
+Customer PO.No: Due Date : 11-MAR-18
+Customer PO.Date:
+Currency : INR
+Invoice Summary 
+Basic Amount Tax Amount Invoice Amount
+739.73 133.15 872.88
+Amount (in Words): Rupees Eight Hundred and Seventy Two and Eighty Eight Paise Only ***
+Tax Breakup 
+Description Amount For  Sify Technologies Limited
+IGST  18%      133.15
+Authorised Signatory
+ Total Tax 133.15
+PAN No.  : AAACS9032R
+RTGS  Information: You can make your payment through electronic transfer / RTGS as per given details, with a mail copy to sify.cms@sifycorp.com 
+with remittance details
+Sify Technologies Limited State Bank of India
+Beneficiary Name Bank Name
+2nd Floor, Tidel Park, No.4, Rajiv Gandhi 177/1, MVJ Towers, Poonamallee High 
+Company Address Bank Address
+Salai, Taramani, Chennai 600113, India. Road, Kilpauk, Chennai - 600010
+Cash Credit 36153248690
+Account Type Bank Account #
+Currency INR IFSC Code SBIN0007024
+Terms and Conditions
+1. Payments : Cheques / Demand Drafts / Wire Transfers to be issued in favour of "Sify Technologies Limited" quoting Invoice No. ITN17133184
+in your payment advice.
+2. Payment should be made as per the terms and conditions of the Purchase Order. Interest @ 24% will be charged on payment received after
+due date.
+3. For Period Charges, the calculation has been done as follows: (Annual Rate / 365) X (Number of days of service)
+4. Any dispute relating to the order shall be deemed to have arisen in Chennai and all litigation there shall be subject to Jurisdiction of Courts at
+Chennai, only.
+5. Invoices will be deemed to have been accepted if no query is raised within 7 Days of receipt of invoices. For any billing query email us: 
+billing_support@sifycorp.com
+For Service Disconnections email us: sify.creditcontrol@sifycorp.com
+[ This Invoice is electronically generated and is digitally signed ]
+REGD. OFFICE
+nd
+2 Floor, Tidel Park, No.4, Rajiv Gandhi Salai, Taramani, Chennai - 600113 India.
+T +91 44 22540770 / 22540777 F +91 44 22540771 CIN : U72200TN1995PLC050809 Website : sifytechnologies.comInvoice No: ITN17133184 Invoice Date: 09-FEB-18
+                                                                                                                    Page No. 2 of 2  
+  
+Invoice Line Details 
+S.No. Service/s HSN Code Location Basic Amount
+1
+PNMMC Service Charges
+111602067-29-MAR-17-
+ASHRAM 
+9983
+739.73
+RD-AHMEDABAD
+LINK ID :4529610417
+PERIOD :01-APR-18 To 15-MAY-18
+739.73
+Total
+---End of Invoice---
+For Service Disconnections email us: sify.creditcontrol@sifycorp.com
+[ This Invoice is electronically generated and is digitally signed ]
+REGD. OFFICE
+nd
+2 Floor, Tidel Park, No.4, Rajiv Gandhi Salai, Taramani, Chennai - 600113 India.
+T +91 44 22540770 / 22540777 F +91 44 22540771 CIN : U72200TN1995PLC050809 Website : sifytechnologies.com

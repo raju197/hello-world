@@ -1,0 +1,5 @@
+﻿DriverFileCreate  666445555
+JSON State   Screen State: -- Select --
+JSON Job Guideline: Federal  Screen Job Guideline: Unknown
+JSON Job Status Applicant  Screen Job Status: Unknown
+JSON Birth Date   Screen Birth Date: 1-10-1996

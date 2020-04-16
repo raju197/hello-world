@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "processName": "DQF NG Application",
+    "processId": "3ba167f1-t558-8a95-mx19-9y97d303dt2f",
+    "stageId": "9154f5g3-8g19-ff3d-7e53-g068h9n81ct9",
+    "requestType": "query",
+    "task": "DriverFileSearch",
+    "taskDesc": "Driver File Search",
+    "taskGroupId": "803175e2-9b15-4f0c-9381-e084b21c0c08",
+    "requestDate": "1/4/2020 8:00:12 PM",
+    "requestId": "9aa167d1-2e5a-4a25-ac1e-fe97d706df2f",
+    "version": "2.0.0",
+    "attempt": 1,
+    "multiTask": "no",
+    "requestAuthToken": "jwt.token",
+    "botId": "Bot-Unique-Id",
+    "responseId": "12sd62g9-9ds7-a929-xd81-19a5v721d23s",
+    "responseTime": "1/4/2020 8:00:12 PM",
+    "status": {
+      "success": true,
+      "message": "Bot Executon done successfullly",
+      "statusCode": "Success code"
+    }
+  },
+  "data": [
+    {
+      "taskName": "DriverFileSearch",
+      "taskId": "803175e2-9b15-4f0c-9381-e084b21c0c11",
+      "taskSerialNo": 1,
+      "result": {
+        "driver": {
+            "tableType": "",
+            "driverID": "1110288",
+            "SSN": "666445555",
+            "hireDate": "",
+            "employeeID": "",
+            "firstName": "Test",
+            "lastName": "one",
+            "birthDate": "",
+            "faxID": "100000000618",
+            "driverSequence": "1",
+            "DLNumber": "",
+            "DLState": "",
+            "driverStreetAddress": "",
+            "driverAddressState": "",
+            "driverCity": "",
+            "driverZip": "",
+            "licenseType": "",
+            "driverType": "",
+            "existingDocuments": [
+              {
+                "documentType": "USE- ANNUAL MVR",
+                "status": "Fail Document Not Found",
+                "serviceDate": "00/00/0000",
+                "expirationDate": "00/00/0000",
+                "reviewDate": "08/20/2019",
+                "lastUploadedTime": "",
+                "pageCount": "",
+                "approvedDate": ""
+              },
+              {
+                "documentType": "USE-COVAR",
+                "status": "Document is missing",
+                "serviceDate": "00/00/0000",
+                "expirationDate": "00/00/0000",
+                "reviewDate": "08/20/2019",
+                "lastUploadedTime": "",
+                "pageCount": "",
+                "approvedDate": ""
+              },
+              {
+                "documentType": "USE-ROAD TEST AND RT CERT",
+                "status": "Document is missing",
+                "serviceDate": "00/00/0000",
+                "expirationDate": "",
+                "reviewDate": "08/20/2019",
+                "lastUploadedTime": "2020-02-24 07:31:28",
+                "pageCount": "1",
+                "approvedDate": ""
+              },
+              {
+                "documentType": "USE-DRIVERS APPLICATION",
+                "status": "Document is missing",
+                "serviceDate": "00/00/0000",
+                "expirationDate": "",
+                "reviewDate": "08/20/2019",
+                "lastUploadedTime": "",
+                "pageCount": "",
+                "approvedDate": ""
+              },
+              {
+                "documentType": "USE- INITIAL MVR",
+                "status": "Initial MVR Was Not Pulled Within 30 Days Of Hire",
+                "serviceDate": "00/00/0000",
+                "expirationDate": "",
+                "reviewDate": "08/20/2019",
+                "lastUploadedTime": "",
+                "pageCount": "",
+                "approvedDate": ""
+              },
+              {
+                "documentType": "USE-DRIVERS LICENSE",
+                "status": "Document is Missing",
+                "serviceDate": "00/00/0000",
+                "expirationDate": "00/00/0000",
+                "reviewDate": "02/03/2020",
+                "lastUploadedTime": "",
+                "pageCount": "",
+                "approvedDate": ""
+              },
+              {
+                "documentType": "USE-EMPLOYMENT VERIFICATION",
+                "status": "Verifications or Attempts not complete For Required Employers",
+                "serviceDate": "00/00/0000",
+                "expirationDate": "",
+                "reviewDate": "08/20/2019",
+                "lastUploadedTime": "",
+                "pageCount": "",
+                "approvedDate": ""
+              },
+              {
+                "documentType": "USE-MED CARD",
+                "status": "Document is missing",
+                "serviceDate": "00/00/0000",
+                "expirationDate": "00/00/0000",
+                "reviewDate": "08/20/2019",
+                "lastUploadedTime": "",
+                "pageCount": "",
+                "approvedDate": ""
+              }
+            ],
+			"Client Specific Field1" : "Value" --Non-Generic field value based on request
+            "isFinal": "1"
+        }
+      },
+      "metrics": {
+        "startTime": 1580573369464,
+        "endTime": 1580573370994,
+        "timeInMills": 1530,
+        "timeInSeconds": 1.5,
+        "statusCode": "status code"
+      },
+      "logs": {
+        "field1": "Bot State logs"
+      }
+    }
+  ]
+}

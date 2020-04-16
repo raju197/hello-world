@@ -1,0 +1,159 @@
+{
+  "metadata": {
+    "processName": "DQF NG Application",
+    "processId": "3ba167f1-t558-8a95-mx19-9y97d303dt2f",
+    "stageId": "9154f5g3-8g19-ff3d-7e53-g068h9n81ct9",
+    "requestType": "commamnd",
+    "task": "DocumentProcessing",
+    "taskDesc": "Driver IQ Update",
+    "taskGroupId": "803175e2-9b15-4f0c-9381-e084b21c0c08",
+    "requestDate": "1/4/2020 8:00:12 PM",
+    "requestId": "9aa167d1-2e5a-4a25-ac1e-fe97d706df2f",
+    "version": "2.0.0",
+    "attempt": 1,
+    "multiTask": "no",
+    "requestAuthToken": "jwt.token"
+  },
+  "data": [
+    {
+      "taskName": "DocumentProcessing",
+      "taskId": "803175e2-9b15-4f0c-9381-e084b21c0c11",
+      "taskSerialNo": 1,
+      "taskSpecs": {
+        "documentDriverIQ": {
+          "client": "FedEx Ground Package Systems - CSP",
+          "driverId": "932144",
+          "driverType": "",
+          "SSN": "123456789",
+          "employeeID": "98765",
+          "DLNumber": "846210613",
+          "firstName": "GENIEE",
+          "lastName": "K",
+          "DOB": "04/13/1981",
+          "hireDate": "3-15-2020",
+          "DLIssueDate": "",
+          "DLState": "Alaska",
+          "DLCDL": "No",
+          "POBox": "",
+          "streetAddress": "this is street address",
+          "city": "HANOVER PARK_test",
+          "driverAddressState": "California",
+          "zip": "110029",
+          "jobStatus": "Inactive",
+          "documentName": "FXG Application",
+          "jobGuideline": "State",
+          "gender": "Male",
+          "jobTitle": "this is job",
+		  "approvedDate": "",
+          "existingDocuments": [
+            {
+              "documentType": "FXGApplication",
+              "vendorID": "",
+              "serviceDate": "10/11/2019",
+              "reviewDate": "",
+              "expirationDate": ""
+            }
+          ],
+          "questions": [
+            {
+              "question": "Is the document legible ?:",
+              "answer": "Pass"
+            },
+            {
+              "question": "Is Motor Carrier address on application?:",
+              "answer": "Pass"
+            },
+            {
+              "question": "Is drivers name on the application?:",
+              "answer": "Pass"
+            },
+            {
+              "question": "Is drivers SSN on the application?:",
+              "answer": "Pass"
+            },
+            {
+              "question": "Is drivers DOB complete?:",
+              "answer": "Pass"
+            },
+            {
+              "question": "Is 3 years residence info provided?:",
+              "answer": "Pass"
+            },
+            {
+              "question": "Is driving experience completed or acknowledged?:",
+              "answer": "Pass"
+            },
+            {
+              "question": "Has 3 years of previous employment been provided? :",
+              "answer": "Pass"
+            },
+            {
+              "question": "IF CDL driver needs 10yrs exp, 10 yrs provided?:",
+              "answer": "Pass"
+            },
+            {
+              "question": "Any gaps in employment greater than 30 days?:",
+              "answer": "Pass"
+            },
+            {
+              "question": "Are all Employment Dates Listed?:",
+              "answer": "Pass"
+            },
+            {
+              "question": "Are previous employers name provided?:",
+              "answer": "Pass"
+            },
+            {
+              "question": "Is previous employer address info provided?:",
+              "answer": "Pass"
+            },
+            {
+              "question": "Do ALL employers have reason for leaving?:",
+              "answer": "Pass"
+            },
+            {
+              "question": "Was safety sensitive complete for all employers?:",
+              "answer": "Pass"
+            },
+            {
+              "question": "Was FMCSR question answered for each employer ?:",
+              "answer": "Pass"
+            },
+            {
+              "question": "Is drivers license info complete?:",
+              "answer": "Pass"
+            },
+            {
+              "question": "Has Drivers license ever been denied/susp/revoked?:",
+              "answer": "Pass"
+            },
+            {
+              "question": "If Yes, is full statement provided?:",
+              "answer": "Pass"
+            },
+            {
+              "question": "3 yrs of traffic convictions/forfeitures listed?:",
+              "answer": "Pass"
+            },
+            {
+              "question": "Is 3 years accident history acknowledged?:",
+              "answer": "Pass"
+            },
+            {
+              "question": "Is application signed by driver?:",
+              "answer": "Pass"
+            },
+            {
+              "question": "Is application dated by driver?:",
+              "answer": "Pass"
+            },
+            {
+              "question": "FADV Order Status:",
+              "answer": "Pass"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

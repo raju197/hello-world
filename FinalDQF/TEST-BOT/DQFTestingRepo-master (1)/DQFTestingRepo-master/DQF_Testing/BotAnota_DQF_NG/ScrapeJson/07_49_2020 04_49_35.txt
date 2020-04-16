@@ -1,0 +1,1 @@
+{"data":{"Issue/Exam Date:": "01/10/2020",,"Expiration Date:": "01/10/2022",,"Birth Date:": "1-10-1996"}"screenshotfilePath":["C:\\DQF_Testing\\BotAnota_DQF_NG\\ScreenShot\\07_49_2020 04_49_07.JPEG"C:\\DQF_Testing\\BotAnota_DQF_NG\\ScreenShot\\07_47_2020 04_47_44.JPEG",""C:\\DQF_Testing\\BotAnota_DQF_NG\\ScreenShot\\07_45_2020 04_45_54.JPEG","]}

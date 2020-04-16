@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "processName": "DQF NG Application",
+    "processId": "3ba167f1-t558-8a95-mx19-9y97d303dt2f",
+    "stageId": "9154f5g3-8g19-ff3d-7e53-g068h9n81ct9",
+    "requestType": "query",
+    "task": "NationalRegistery",
+    "taskDesc": "National Registery Fetch Data",
+    "taskGroupId": "803175e2-9b15-4f0c-9381-e084b21c0c08",
+    "requestDate": "1/4/2020 8:00:12 PM",
+    "requestId": "9aa167d1-2e5a-4a25-ac1e-fe97d706df2f",
+    "version": "2.0.0",
+    "attempt": 1,
+    "multiTask": "no",
+    "requestAuthToken": "jwt.token",
+    "botId": "Bot-Unique-Id",
+    "responseId": "12sd62g9-9ds7-a929-xd81-19a5v721d23s",
+    "responseTime": "1/4/2020 8:00:12 PM",
+    "status": {
+      "success": true,
+      "message": "Bot Executon done successfullly",
+      "statusCode": "Success code"
+    }
+  },
+  "data": [
+    {
+      "taskName": "NationalRegistery",
+      "taskId": "803175e2-9b15-4f0c-9381-e084b21c0c11",
+      "taskSerialNo": 1,
+      "result": {
+        "nationalRegistryResult": {
+          "driverId": "1103474",
+          "faxID": "",
+          "FCRA": "Approve",
+          "certifiedDate": "06/16/17",
+          "SSN": "102704819",
+          "isFinal": "1"
+        }
+      },
+      "metrics": {
+        "startTime": 1580573369464,
+        "endTime": 1580573370994,
+        "timeInMills": 1530,
+        "timeInSeconds": 1.5,
+        "statusCode": "status code"
+      },
+      "logs": {
+        "field1": "Bot State logs"
+      }
+    }
+  ]
+}
